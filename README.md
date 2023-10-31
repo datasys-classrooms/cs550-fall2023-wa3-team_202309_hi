@@ -2,5 +2,5 @@
 CS550 Advanced Operating Systems Written Assignment 3 Repo
 Illinois Institute of Technology
 
-Team Name: Students:****
+Team Name: Students:
 **WeiboWang A2050351 [wwang136@hawk.iit.edu](mailto:wwang136@hawk.iit.edu)**
